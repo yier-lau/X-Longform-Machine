@@ -1,0 +1,19 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+.env
+.env.*
+node_modules/
+dist/
+*.zip
+
+# Local personal archives and generated outputs
+personal-expression-system/
+个人语料库/
+资产库/
+发布包/
+长文项目库/
+封面提示词/
+系统日志/
+

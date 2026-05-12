@@ -1,0 +1,4 @@
+display_name: 草莽长文
+short_description: 把零碎想法、个人语料和真实经历炼成草莽但锋利的 X 长文、发布包与封面提示词。
+default_prompt: 用我的莽子哥，把这个想法写成一篇像我写的草莽 X 长文，保留我的语气，并输出发布包。
+public_note: 可独立使用；dbskill 是可选增强依赖，不是必装依赖。
