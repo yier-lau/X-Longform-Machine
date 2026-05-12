@@ -1,4 +1,4 @@
-# 草莽长文 / X Longform Machine
+#  X Longform Machine
 
 一个用于生成、诊断、重写和发布 X 长文的 Agent Skill。
 
